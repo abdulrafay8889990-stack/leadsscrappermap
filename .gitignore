@@ -1,0 +1,17 @@
+# Private / generated data - never commit
+browser_profiles/
+data/
+autosave/
+exports/
+settings.json
+scraper.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Windows app build output (tools/build.ps1)
+build/
+dist/
+*.spec
